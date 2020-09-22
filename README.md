@@ -1,0 +1,2 @@
+# DiplomaProject
+Temperature Detection
